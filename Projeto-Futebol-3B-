@@ -1,0 +1,12 @@
+{
+  "esportes_norte": [
+    {"nome": "Futebol", "quantidade_pessoas": 5000000},
+    {"nome": "Vôlei", "quantidade_pessoas": 1500000},
+    {"nome": "Basquete", "quantidade_pessoas": 1000000},
+    {"nome": "Futsal", "quantidade_pessoas": 800000},
+    {"nome": "Rugby", "quantidade_pessoas": 300000},
+  ]
+}
+
+
+
